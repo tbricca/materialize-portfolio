@@ -17,3 +17,8 @@ body {
 .section-header {
     font-weight: 300;
 }
+
+.cta {
+    font-weight: 300;
+    text-shadow: 1px 1px black;
+}
