@@ -13,3 +13,7 @@ body {
     padding: 40px;
     border-radius: 10px;  
 }
+
+.section-header {
+    font-weight: 300;
+}
